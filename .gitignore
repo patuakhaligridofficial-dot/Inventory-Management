@@ -1,0 +1,13 @@
+node_modules/
+dist/
+build/
+.next/
+.dart_tool/
+.env
+.env.*
+!.env.example
+*.log
+coverage/
+.DS_Store
+credentials*.json
+service-account*.json
